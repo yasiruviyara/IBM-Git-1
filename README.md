@@ -1,9 +1,8 @@
 # SSH Key Creation
 
 ```
-ssh-keygen -t rsa -b 4096 -C "<your email address>"
-cd ~/.ssh
-ls
+ssh-keygen -t rsa -b 4096 -C "<your email address>" [ optinal check  >> cd ~/.ssh && ls after come main derc]
+
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
 
