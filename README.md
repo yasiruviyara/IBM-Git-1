@@ -12,5 +12,9 @@ ssh-add ~/.ssh/id_rsa
 ```
 cat ~/.ssh/id_rsa.pub (or clip)
 ```
+
+```
+clip < C:\Users\User/.ssh/id_rsa.pub.
+```
 (SSH and GPG keys )
 
