@@ -18,3 +18,8 @@ clip < C:\Users\User/.ssh/id_rsa.pub.
 ```
 (SSH and GPG keys )
 
+# env protect
+```
+.env
+.env.*
+```
